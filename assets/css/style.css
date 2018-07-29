@@ -1,0 +1,14 @@
+p {
+  text-align: center;
+  font-size: 60px;
+}
+
+
+@font-face {
+  font-family: myriad_pro_light;
+  src: url(../fonts/MyriadPro-Light.otf) }
+
+body {
+  font-family: myriad_pro_light; 
+
+}
